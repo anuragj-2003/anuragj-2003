@@ -12,7 +12,7 @@
   <a href="https://x.com/anurag___j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter" /></a>
   <a href="https://linkedin.com/in/anurag-j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" /></a>
   <a href="https://stackoverflow.com/users/26241271/anurag-j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" alt="stackoverflow" /></a>
-  <a href="https://leetcode.com/u/anurag-j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/leetcode.png" alt="leetcode" /></a>
+  <a href="https://leetcode.com/u/anurag-j" target="blank"><img align="center" src="[https://img.icons8.com/fluent/48/000000/leetcode.png](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)" alt="leetcode" /></a>
 </p>
 
 <!-- GitHub Stats -->

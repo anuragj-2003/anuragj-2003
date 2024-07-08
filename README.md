@@ -60,7 +60,7 @@
 
 <!-- Visitor Badge -->
 <p style="text-align: center;">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anuragj-2003.visitor-badge" alt="visitor badge" style="display: none;">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=anuragj-2003.visitor-badge" alt="" style="display: none;">
 </p>
 
 <!-- About Me -->

@@ -1,18 +1,18 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link" alt="banner">
+  <img src="https://media.licdn.com/dms/image/D5616AQEjHNkstXR1Tw/profile-displaybackgroundimage-shrink_350_1400/0/1689644800571?e=1726099200&v=beta&t=dR59Fp2TpDqQP1cCLNIdIzDz0Hweh9P3MjulweenVdk" alt="banner">
 </p>
 
 <!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Tech Enthusiast | Driving Innovation, Collaboration, and Emerging Technologies for Digital Transformation</h3>
 
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://x.com/anurag___j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter" /></a>
   <a href="https://linkedin.com/in/anurag-j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" /></a>
   <a href="https://stackoverflow.com/users/26241271/anurag-j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" alt="stackoverflow" /></a>
-  <a href="https://leetcode.com/u/anurag-j" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/leetcode.png](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)" alt="leetcode" /></a>
+  <a href="https://leetcode.com/u/anurag-j" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="leetcode" width="40"/></a>
 </p>
 
 <!-- GitHub Stats -->
@@ -30,16 +30,21 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragj-2003&theme=radical" alt="Anurag's Streak Stats" />
 </p>
 
-<!-- Visitor Badge -->
-<p align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anuragj-2003.visitor-badge" alt="visitor badge"/>
-</p>
-
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  I'm a Full Stack Developer with experience in creating dynamic web applications using modern technologies. I love exploring new tech and working on challenging projects.
+  I'm a tech enthusiast passionate about driving innovation, collaboration, and emerging technologies for digital transformation. With a strong background in backend development and experience in various technologies like Django, Node.js, and Next.js, I enjoy tackling complex challenges and delivering robust solutions.
 </p>
+<p align="center">
+  I have experience with:
+</p>
+<ul>
+  <li>Integrating APIs from courier partners for logistics management.</li>
+  <li>Building chat systems using React.js and Firebase.</li>
+  <li>Creating a cryptocurrency data retrieval tool.</li>
+  <li>Developing a social media web application to enhance user interaction and satisfaction.</li>
+  <li>Implementing role-based user management and advanced security features in Django projects.</li>
+</ul>
 
 <!-- Technologies & Tools -->
 <h2 align="center">Technologies & Tools</h2>
@@ -50,19 +55,12 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=61DAFB&style=flat-square" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
 </p>
-
-<!-- Projects -->
-<h2 align="center">Projects</h2>
-<ul>
-  <li><a href="https://github.com/anuragj-2003/project1">Project 1</a>: Brief description of Project 1</li>
-  <li><a href="https://github.com/anuragj-2003/project2">Project 2</a>: Brief description of Project 2</li>
-  <li><a href="https://github.com/anuragj-2003/project3">Project 3</a>: Brief description of Project 3</li>
-</ul>
 
 <!-- Contact -->
 <h2 align="center">Contact Me</h2>
